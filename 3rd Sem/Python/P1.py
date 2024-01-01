@@ -1,7 +1,7 @@
 a=10
 b='Python'
 c=10.5
-d=2.14
+d=2.14j
 e=True
 print('Datetype of variable a : ',type(a))
 print('Datetype of variable b : ',type(b))
