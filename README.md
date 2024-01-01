@@ -1,4 +1,4 @@
-# BCA
+# Bachelor of Computer Application [ BCA ]
 1st Year[1ST Sem]
 #PST(PROBLEM SOLVING TECHNIQUE)
 #DS(DATA STRUCTURE)
